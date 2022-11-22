@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: #30391F;
+}
+
+/* header----------------------------------- */
+
+header  {
+    width: 100% ;
+    
+}
+
+
+header > .menu  >a {
+    display: inline-block;
+    text-align: center;
+    font-size: 1.6rem;
+    text-decoration: none;
+    color: #ACCC7B;
+    
+}
